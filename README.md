@@ -27,7 +27,5 @@ This ETL pipeline project uses PySpark and PostgreSQL for data processing. A Spa
 
 
 
-## Authors 🧑‍🏫
 
-- Harshit Tyagi
 
